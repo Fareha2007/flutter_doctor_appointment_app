@@ -8,7 +8,9 @@ plugins {
 android {
     namespace = "com.example.flutter_doctor_appointment_app"
     compileSdk = flutter.compileSdkVersion
-    ndkVersion = flutter.ndkVersion
+    ndkVersion = "29.0.13846066"
+
+
 
     compileOptions {
         sourceCompatibility = JavaVersion.VERSION_11
