@@ -5,7 +5,11 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
 	<key>CFBundleDisplayName</key>
+<<<<<<< HEAD
 	<string>Flutter Doctor App Fixed</string>
+=======
+	<string>Flutter Doctor Clone</string>
+>>>>>>> 1bf49ddb9d52d6d66501b2dff48d6f07459270e2
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
 	<key>CFBundleIdentifier</key>
@@ -13,7 +17,11 @@
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
+<<<<<<< HEAD
 	<string>flutter_doctor_app_fixed</string>
+=======
+	<string>flutter_doctor_clone</string>
+>>>>>>> 1bf49ddb9d52d6d66501b2dff48d6f07459270e2
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>

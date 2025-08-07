@@ -6,7 +6,11 @@ plugins {
 }
 
 android {
+<<<<<<< HEAD
     namespace = "com.example.flutter_doctor_app_fixed"
+=======
+    namespace = "com.example.flutter_doctor_clone"
+>>>>>>> 1bf49ddb9d52d6d66501b2dff48d6f07459270e2
     compileSdk = flutter.compileSdkVersion
     ndkVersion = flutter.ndkVersion
 
@@ -21,7 +25,11 @@ android {
 
     defaultConfig {
         // TODO: Specify your own unique Application ID (https://developer.android.com/studio/build/application-id.html).
+<<<<<<< HEAD
         applicationId = "com.example.flutter_doctor_app_fixed"
+=======
+        applicationId = "com.example.flutter_doctor_clone"
+>>>>>>> 1bf49ddb9d52d6d66501b2dff48d6f07459270e2
         // You can update the following values to match your application needs.
         // For more information, see: https://flutter.dev/to/review-gradle-config.
         minSdk = flutter.minSdkVersion

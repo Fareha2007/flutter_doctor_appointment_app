@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 name: flutter_doctor_app_fixed
 description: A new Flutter project.
 publish_to: 'none'
@@ -6,11 +7,23 @@ version: 1.0.0+1
 environment:
   sdk: '>=3.8.0 <4.0.0'
   
+=======
+name: flutter_doctor_appointment_app
+description: "A new Flutter project."
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.8.1 <4.0.0'
+>>>>>>> 1bf49ddb9d52d6d66501b2dff48d6f07459270e2
 
 dependencies:
   flutter:
     sdk: flutter
 
+<<<<<<< HEAD
   cupertino_icons: ^1.0.2
 
 dev_dependencies:
@@ -20,3 +33,33 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
+=======
+  cupertino_icons: ^1.0.8
+
+# added for the network and Api calls
+  http: ^1.4.0
+  # added for state management 
+  get: ^4.7.2
+  
+  # added for skipping the login screen
+  shared_preferences: ^2.5.3
+
+  #added for fonts style
+  google_fonts: ^6.3.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/icons/
+    - assets/fonts/
+   
+
+>>>>>>> 1bf49ddb9d52d6d66501b2dff48d6f07459270e2

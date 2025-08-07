@@ -18,11 +18,12 @@ class MyApp extends StatelessWidget {
 
       debugShowCheckedModeBanner: false,
       theme: ThemeData(primarySwatch: Colors.blue),
-      home: const AppointmentConfirmationScreen(),
+      home: AppointmentConfirmationScreen(),
       routes: {
         '/book': (context) => BookingScreen(),
         '/schedule': (context) => MyAppointmentsScreen(),
         '/confirmation': (context) => AppointmentConfirmationScreen(),
+
       },
     );
   }

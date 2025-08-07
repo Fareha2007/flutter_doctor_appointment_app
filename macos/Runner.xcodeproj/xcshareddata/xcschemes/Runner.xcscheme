@@ -15,7 +15,11 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "33CC10EC2044A3C60003C045"
+<<<<<<< HEAD
                BuildableName = "flutter_doctor_app_fixed.app"
+=======
+               BuildableName = "flutter_doctor_clone.app"
+>>>>>>> 1bf49ddb9d52d6d66501b2dff48d6f07459270e2
                BlueprintName = "Runner"
                ReferencedContainer = "container:Runner.xcodeproj">
             </BuildableReference>
@@ -31,7 +35,11 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "33CC10EC2044A3C60003C045"
+<<<<<<< HEAD
             BuildableName = "flutter_doctor_app_fixed.app"
+=======
+            BuildableName = "flutter_doctor_clone.app"
+>>>>>>> 1bf49ddb9d52d6d66501b2dff48d6f07459270e2
             BlueprintName = "Runner"
             ReferencedContainer = "container:Runner.xcodeproj">
          </BuildableReference>
@@ -66,7 +74,11 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "33CC10EC2044A3C60003C045"
+<<<<<<< HEAD
             BuildableName = "flutter_doctor_app_fixed.app"
+=======
+            BuildableName = "flutter_doctor_clone.app"
+>>>>>>> 1bf49ddb9d52d6d66501b2dff48d6f07459270e2
             BlueprintName = "Runner"
             ReferencedContainer = "container:Runner.xcodeproj">
          </BuildableReference>
@@ -83,7 +95,11 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "33CC10EC2044A3C60003C045"
+<<<<<<< HEAD
             BuildableName = "flutter_doctor_app_fixed.app"
+=======
+            BuildableName = "flutter_doctor_clone.app"
+>>>>>>> 1bf49ddb9d52d6d66501b2dff48d6f07459270e2
             BlueprintName = "Runner"
             ReferencedContainer = "container:Runner.xcodeproj">
          </BuildableReference>

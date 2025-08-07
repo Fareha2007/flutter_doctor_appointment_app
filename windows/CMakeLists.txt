@@ -1,10 +1,18 @@
 # Project-level configuration.
 cmake_minimum_required(VERSION 3.14)
+<<<<<<< HEAD
 project(flutter_doctor_app_fixed LANGUAGES CXX)
 
 # The name of the executable created for the application. Change this to change
 # the on-disk name of your application.
 set(BINARY_NAME "flutter_doctor_app_fixed")
+=======
+project(flutter_doctor_clone LANGUAGES CXX)
+
+# The name of the executable created for the application. Change this to change
+# the on-disk name of your application.
+set(BINARY_NAME "flutter_doctor_clone")
+>>>>>>> 1bf49ddb9d52d6d66501b2dff48d6f07459270e2
 
 # Explicitly opt in to modern CMake behaviors to avoid warnings with recent
 # versions of CMake.

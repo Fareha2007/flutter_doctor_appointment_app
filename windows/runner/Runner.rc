@@ -90,12 +90,21 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.example" "\0"
+<<<<<<< HEAD
             VALUE "FileDescription", "flutter_doctor_app_fixed" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
             VALUE "InternalName", "flutter_doctor_app_fixed" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2025 com.example. All rights reserved." "\0"
             VALUE "OriginalFilename", "flutter_doctor_app_fixed.exe" "\0"
             VALUE "ProductName", "flutter_doctor_app_fixed" "\0"
+=======
+            VALUE "FileDescription", "flutter_doctor_clone" "\0"
+            VALUE "FileVersion", VERSION_AS_STRING "\0"
+            VALUE "InternalName", "flutter_doctor_clone" "\0"
+            VALUE "LegalCopyright", "Copyright (C) 2025 com.example. All rights reserved." "\0"
+            VALUE "OriginalFilename", "flutter_doctor_clone.exe" "\0"
+            VALUE "ProductName", "flutter_doctor_clone" "\0"
+>>>>>>> 1bf49ddb9d52d6d66501b2dff48d6f07459270e2
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END

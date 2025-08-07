@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # flutter_doctor_app_fixed
+=======
+# flutter_doctor_clone
+>>>>>>> 1bf49ddb9d52d6d66501b2dff48d6f07459270e2
 
 A new Flutter project.
 
