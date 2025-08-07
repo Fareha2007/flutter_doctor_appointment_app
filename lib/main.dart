@@ -16,3 +16,17 @@ class _HomeScreenState extends State<HomeScreen> {
     return GetMaterialApp(title: 'My GetX App', home: const HomeScreen());
   }
 }
+class MyApp extends StatelessWidget {
+  const MyApp({super.key});
+
+  @override
+  Widget build(BuildContext context) {
+    return MaterialApp(
+      debugShowCheckedModeBanner: false,
+      home: Scaffold(
+        appBar: AppBar(title: Text('Doctor Appointment')),
+        body: Center(child: Text('Welcome')),
+      ),
+    );
+  }
+}
